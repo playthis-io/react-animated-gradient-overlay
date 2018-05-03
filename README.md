@@ -1,6 +1,6 @@
 # React Animdated Gradient Overlay
 
-![alttext](https://github.com/danieldram/react-animated-gradient-overlay/blob/master/example/example.gif?raw=true)
+![alttext](https://github.com/playthis-io/react-animated-gradient-overlay/blob/master/example/playthis.gif?raw=true)
 
 # About the project
 Currently there is no CSS solution for gradient animations. This react-component works by allowing the user to set the gradient colors, the basic direction, transition time and opacity of the gradient and then wrap child images or nodes and have the gradients transition over it. 
